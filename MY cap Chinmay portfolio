@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chinmay's Portfolio</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <style>
+        .container {
+            max-width: 1000px;
+        }
+
+        .header {
+            padding: 50px 0;
+            text-align: center;
+        }
+
+        .project {
+            padding: 50px 0;
+        }
+
+        .footer {
+            padding: 20px 0;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+
+    <div class="container">
+        <div class="header">
+            <h1><u>Welcome to My Portfolio</u></h1>
+            <p><u>This is a showcase of my web development projects</u></p>
+        </div>
+        <br>
+        <br>
+    <div><h1><u>About me</u></h1>
+        <h5>Hello iam</h5>
+        <h5>Chinmay mishra</h5>
+        <h5>Iam a developer</h5>
+    
+    </div>
+    <br>
+    <br>
+    <div><u><h1>Education</h1></u>
+        <p>Iam in 3rd year of B.tech(cse) from Parul university vadodra</p>
+    
+    </div>
+    <br>
+    <br>
+    <div>
+        <h1><u>Intrest</u></h1>
+        <p>Iam a developer having knowldge of HTML,CSS,JavaScript
+            I also have ingtrest in UI/UIX ,Ethical Hacking
+        </p>
+    </div>
+    <br>
+    <br>
+    
+    <div><h1><u>Experience</u></h1>
+        <p>Iam doing internship in INTRAINZ from Banglore in CyberSecurity
+            i also made some website and projects with my team
+        </p>
+
+
+    </div>
+    
+     
+
+        <div>
+            <h2><u>Project 1</u></h2>
+            <p>This is a brief description of project 1. It is a responsive website built with HTML, CSS, and JavaScript. The project includes features such as responsive navigation, animations, and a mobile-first design.</p>
+            <img src="project1.jpg" alt="Project 1 Screenshot" class="img-fluid">
+        </div>
+
+        <div>
+            <h2><u>Project 2</u></h2>
+            <p>This is a brief description of project 2. It is a responsive website built with HTML, CSS, and JavaScript. The project includes features such as responsive navigation, animations, and a mobile-first design.</p>
+            <img src="project2.jpg" alt="Project 2 Screenshot" class="img-fluid">
+        </div>
+
+        <div class="footer">
+            <p>&copy; 2021 My Portfolio. All rights reserved.</p>
+        </div>
+    </div>
+
+    
+</body>
+</html>
